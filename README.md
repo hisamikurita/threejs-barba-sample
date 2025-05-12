@@ -1,6 +1,7 @@
-# threejs-barbajs-demo
+# threejs-barbajs-sample
 
-● <a href="https://hisamikurita.github.io/threejs-barbajs-demo/dist/">DEMO</a>
+- <a href="https://hisamikurita.github.io/threejs-barbajs-sample/dist/">DEMO</a>
+- design reference <https://www.updata.one/>
 
 ![スクリーンショット 2022-02-13 21 35 36](https://user-images.githubusercontent.com/47776346/153753527-b7fcb6b4-68f9-4639-81bc-3a1f1c8b72f9.png)
 
@@ -21,6 +22,3 @@
 ```
   yarn generate
 ```
-
-## Design Reference
-<a href="https://www.updata.one/">https://www.updata.one/</a>
